@@ -1,0 +1,9 @@
+# Solving file
+main.cpp
+
+# CMake
+cmake-build-*/
+CMakeLists.txt
+
+#Clion
+.idea/*
